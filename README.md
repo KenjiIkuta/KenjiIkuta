@@ -1,5 +1,5 @@
 - 👋 Olá eu sou Thiago Kenji Ikuta
-- 👀 Estou interessado em desenvolvimento Front-end  
+- 👀 Estou interessado em desenvolvimento web
 - 🌱 No momento estou aprendendo a programar para dispositivos móveis e programação web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
